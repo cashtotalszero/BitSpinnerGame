@@ -1,0 +1,1 @@
+./question_4bit_no1.bmp 4 1011 1;

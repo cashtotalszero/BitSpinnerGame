@@ -1,0 +1,147 @@
+question_4bit_no1.bmp 4b 0001 1; What is 1 in binary?
+question_4bit_no2.bmp 4b 0010 1; What is 2 in binary?
+question_4bit_no3.bmp 4b 0100 1; What is 4 in binary?
+question_4bit_no4.bmp 4b 1000 1; What is 8 in binary?
+question_4bit_no13.bmp 4b 0011 1; What is 3 in binary?
+question_4bit_no14.bmp 4b 0101 1; What is 5 in binary?
+question_4bit_no15.bmp 4b 0110 1; What is 6 in binary?
+question_4bit_no16.bmp 4b 0111 1; Convert the decimal number 7 into binary
+question_4bit_no17.bmp 4b 1001 1; Convert the decimal number 9 into binary
+question_4bit_no18.bmp 4b 1010 1; Convert the decimal number 10 into binary
+question_4bit_no19.bmp 4b 1011 1; Convert the decimal number 11 into binary
+question_4bit_no20.bmp 4b 1101 1; Convert the decimal number 13 into binary
+question_4bit_no21.bmp 4b 1110 1; Convert the decimal number 14 into binary
+question_4bit_no22.bmp 4b 1111 1; Convert the decimal number 15 into binary
+question_4bit_no5.bmp 4b 1111 2; What is 0111 + 8 in binary?
+question_4bit_no6.bmp 4b 0111 2; What is 1111 - 8 in binary?
+question_4bit_no7.bmp 4b 1110 2; What is 1010 + 4 in binary?
+question_4bit_no8.bmp 4b 1001 2; What is 1101 - 4 in binary?
+question_4bit_no9.bmp 4b 1011 2; What is 1001 + 2 in binary?
+question_4bit_no10.bmp 4b 0101 2; What is 0111 - 2 in binary?
+question_4bit_no11.bmp 4b 1111 2; What is 1110 + 1 in binary?
+question_4bit_no12.bmp 4b 1001 2; What is 1010 - 1 in binary?
+question_4bit_no29.bmp 4b 1101 2; What is 1011 + 2 in binary?
+question_4bit_no24.bmp 4b 1000 2; Make all bits 0 except the most significant bit
+question_4bit_no33.bmp 4b 0100 2; Invert all bits in the binary string 1011
+question_4bit_no34.bmp 4b 0011 2; Change the least significant bit in the string 0010
+question_4bit_no23.bmp 4b 1000 3; Add 3 to the binary number 0101
+question_4bit_no25.bmp 4b 1001 3; What is 0100 + 5 in binary?
+question_4bit_no26.bmp 4b 0000 3; What is 0011 - 3 in binary?
+question_4bit_no27.bmp 4b 1101 3; What is 0110 + 7 in binary?
+question_4bit_no28.bmp 4b 0101 3; What is 1110 - 9 in binary?
+question_4bit_no30.bmp 4b 0000 3; What is 1101 - 13 in binary?
+question_4bit_no31.bmp 4b 0001 3; What is 1111 - 14 in binary?
+question_4bit_no32.bmp 4b 1111 3; What is 1000 + 7 in binary?
+question_4bit_no35.bmp 4b 1110 3; Bit shift 1111 left by one place
+question_4bit_no36.bmp 4b 0100 3; Bit shift 1001 right by one place
+question_4bit_no37.bmp 4b 0000 3; Bit shift 0011 right by two places
+question_4bit_no38.bmp 4b 1100 3; Bit shift 1011 left by two places
+question_4bit_no39.bmp 4b 1100 3; What is 2 to the power of 3 + 2 to the power of 2?
+question_4bit_no40.bmp 4b 0110 3; What is 2 to the power of 1 + 2 to the power of 2?
+question_4bit_no41.bmp 4b 0111 3; What is 2 to the power of 3 - 2 to the power of 0?
+question_4bit_no42.bmp 4b 0010 3; What is 2 to the power of 2 - 2 to the power of 1?
+question_4bit_no43.bmp 4b 1101 3; What is 1000 + 0101 in binary?
+question_4bit_no44.bmp 4b 1111 3; What is 0010 + 1101 in binary?
+question_4bit_no45.bmp 4b 1101 3; What is 1010 + 0011 in binary?
+question_4bit_no46.bmp 4b 0101 3; What is 1110 - 1001 in binary?
+question_4bit_no47.bmp 4b 0010 3; What is 0111 - 0101 in binary?
+question_4bit_no48.bmp 4b 0111 3; What is 1011 - 0100 in binary?
+question_4bit_no49.bmp 4b 1111 4; What is -1 in 2s complement binary?
+question_4bit_no50.bmp 4b 1110 4; What is -2 in 2s complement binary?
+question_4bit_no51.bmp 4b 1101 4; What is -3 in 2s complement binary?
+question_4bit_no52.bmp 4b 1100 4; What is -4 in 2s complement binary?
+question_4bit_no53.bmp 4b 1011 4; What is -5 in 2s complement binary?
+question_4bit_no54.bmp 4b 1011 4; Find the 2s complement of 0101
+question_4bit_no55.bmp 4b 1010 4; Find the 2s complement of 0110
+question_4bit_no56.bmp 4b 1001 4; Find the 2s complement of 0111
+question_4bit_no57.bmp 4b 0100 4; Change the signed bit in the 2s complement string 1100
+question_4bit_no58.bmp 4b 1010 4; Bitwise AND: what is 1010&1110?
+question_4bit_no59.bmp 4b 1000 4; Bitwise AND: what is 1110&1000?
+question_4bit_no60.bmp 4b 0000 4; Bitwise AND: what is 1010&0101?
+question_4bit_no61.bmp 4b 1111 4; Bitwise AND: what is 1111&1111?
+question_4bit_no62.bmp 4b 1111 4; Bitwise OR: what is 1100|0011?
+question_4bit_no63.bmp 4b 1011 4; Bitwise OR: what is 0001|1011?
+question_4bit_no64.bmp 4b 0011 4; Bitwise OR: what is 0001|0010?
+question_4bit_hex1.bmp 4x 000b 5; Convert the decimal 11 into hex
+question_4bit_hex2.bmp 4x 000c 5; Convert the decimal 12 into hex
+question_4bit_hex3.bmp 4x 000d 5; Convert the decimal 13 into hex
+question_4bit_hex4.bmp 4x 000e 5; Convert the decimal 14 into hex
+question_4bit_hex5.bmp 4x 000f 5; Convert the decimal 15 into hex
+question_4bit_hex6.bmp 4x 000a 5; Convert the decimal 10 into hex
+question_4bit_hex7.bmp 4x 0010 5; What is 16 in hexadecimal?
+question_4bit_hex8.bmp 4x 0011 5; What is 17 in hexadecimal?
+question_4bit_hex9.bmp 4x 0012 5; What is 18 in hexadecimal?
+question_4bit_hex10.bmp 4x 0013 5; What is 19 in hexadecimal?
+question_4bit_hex11.bmp 4x 0014 5; What is 20 in hexadecimal?
+question_4bit_hex12.bmp 4x 0015 5; What is 21 in hexadecimal?
+question_4bit_hex13.bmp 4x 0fa7 6; What is 0FA2 + 5 in hex?
+question_4bit_hex14.bmp 4x b2a6 6; What is B2A9 - 3 in hex?
+question_4bit_hex15.bmp 4x f111 6; What is hex F100 + decimal 17 in hex?
+question_4bit_hex16.bmp 4x fff1 6; What is FFF9 - 8 in hex?
+question_4bit_hex17.bmp 4x a8fd 6; What is A8F4 + 9 in hex?
+question_4bit_hex18.bmp 4x f007 6; Which has the correct prefix, 0xF007 or Hx0F92?
+question_4bit_hex19.bmp 4x fa0c 6; Which is greater, F8FF or FAOC?
+question_4bit_hex20.bmp 4x beef 6; Which is the greater hex number, BEEF or BABE?
+question_4bit_hex21.bmp 4x face 6; Which is the greater hex number, DEAD or FACE?
+question_4bit_hex22.bmp 4x f00d 6; Which is the greater hex number, F00D or BED5?
+question_4bit_hex23.bmp 4x 0255 6; Convert the hex number FF into decimal
+question_4bit_hex24.bmp 4x 0287 6; Convert the hex number 11F into decimal
+question_4bit_hex25.bmp 4x 1099 6; Convert the hex number 44B into decimal
+question_4bit_hex26.bmp 4x 0024 6; Convert the hex number 18 into decimal
+question_4bit_hex27.bmp 4x 0523 6; Convert the hex number 20B into decimal
+question_4bit_hex28.bmp 4x 4097 6; Convert the hex number 1001 into decimal
+question_4bit_hex29.bmp 4x 91c3 6; Convert this binary string into hex: 1001 0001 1100 0011
+question_4bit_hex30.bmp 4x f1f5 6; Convert this binary string into hex: 1111 0001 1111 0101
+question_4bit_hex31.bmp 4x b976 6; Convert this binary string into hex: 1011 1001 0111 0110
+question_4bit_hex32.bmp 4x 0962 6; Convert this binary string into hex: 0000 1001 0110 0010
+question_8bit_no1.bmp 8b 01111101 7; What is 125 in binary?
+question_8bit_no2.bmp 8b 10101010 7; What is 170 in binary?
+question_8bit_no3.bmp 8b 11010101 7; What is 213 in binary?
+question_8bit_no4.bmp 8b 01111011 7; What is 123 in binary?
+question_8bit_no5.bmp 8b 00101011 7; What is 43 in binary?
+question_8bit_no6.bmp 8b 01001000 7; What is 72 in binary?
+question_8bit_no7.bmp 8b 11010001 7; What is 209 in binary?
+question_8bit_no8.bmp 8b 11101111 7; Convert the decimal number 239 into binary
+question_8bit_no9.bmp 8b 01011111 7; Convert the decimal number 95 into binary
+question_8bit_no10.bmp 8b 11000111 7; Convert the decimal number 199 into binary
+question_8bit_no11.bmp 8b 00011001 7; Convert the decimal number 25 into binary
+question_8bit_no12.bmp 8b 01000101 7; Convert the decimal number 69 into binary
+question_8bit_no13.bmp 8b 11110001 7; Convert the decimal number 241 into binary
+question_8bit_no14.bmp 8b 01100101 7; Convert the decimal number 101 into binary
+question_8bit_no15.bmp 8b 00101001 8; Bitwise AND: what is 01101101 & 10111011?
+question_8bit_no16.bmp 8b 10001001 8; Bitwise AND: what is 10101001 & 11011001?
+question_8bit_no17.bmp 8b 01111101 8; Bitwise OR: what is 00101100 | 01111001?
+question_8bit_no18.bmp 8b 11110001 8; Bitwise OR: what is 10110000 | 01100001?
+question_8bit_no19.bmp 8b 10100101 8; Bitwise XOR: what is 11001101 ^ 01101000?
+question_8bit_no20.bmp 8b 00011011 8; Bitwise XOR: what is 11110000 ^ 11101011?
+question_8bit_no21.bmp 8b 11001100 8; Bitwise XOR: what is 00110001 ^ 11111101?
+question_8bit_no22.bmp 8b 00010001 8; Bitwise XOR: what is 10100000 ^ 10110001?
+question_8bit_no23.bmp 8b 01001001 8; Bitwise NOT: what is 00110100 ~ 10000110?
+question_8bit_no24.bmp 8b 11000000 8; Bitwise NOT: what is 00111000 ~ 00000111?
+question_8bit_no25.bmp 8b 00001110 8; Bitwise NOT: what is 10110000 ~ 01000001?
+question_8bit_no26.bmp 8b 00001111 8; What is 11111110 >> 4?
+question_8bit_no27.bmp 8b 01110010 8; What is 01110010 >> 0?
+question_8bit_no28.bmp 8b 00000000 8; What is 11011000 << 5?
+question_8bit_no29.bmp 8b 01110010 8; What is 10111001 << 1?
+question_8bit_no30.bmp 8b 11111111 8; Set each bit in the binary string 01101100
+question_8bit_no31.bmp 8b 00011011 9; What is 11110011 (243) Ö 00001001 (9)?
+question_8bit_no32.bmp 8b 00010010 9; What is 11000110 (198) Ö 00001011 (11)?
+question_8bit_no33.bmp 8b 10000110 9; What is 11111011(-5)+10001011(-117)? Answer in 2s complement
+question_8bit_no34.bmp 8b 11100101 9; What is 11101101(-19)+11111000(-8)? Answer in 2s complement
+question_8bit_no35.bmp 8b 11110000 9; What is 01100111 (103) - 01110111 (119)?
+question_8bit_no36.bmp 8b 11100011 9; What is 01001100 (76) - 01101001 (105)?
+question_8bit_no37.bmp 8b 10110000 9; What is 00010001 (17) - 01100001 (97)?
+question_8bit_no38.bmp 8b 10010100 9; What is 00000100 (4) - 0111000 (112)?
+question_8bit_no39.bmp 8b 00000001 9; Create a mask that turns on the LSB using bitwise OR
+question_8bit_no40.bmp 8b 01111111 9; Create a mask that turns on the MSB using bitwise AND
+question_8bit_no41.bmp 8b 01010101 9; Convert 1/3 into binary and display the fraction
+question_8bit_no42.bmp 8b 00011001 9; Convert 1/10 into binary and display the fraction
+question_8bit_no43.bmp 8b 10000000 9; Convert 1/2 into binary and display the finite fraction
+question_8bit_no44.bmp 8b 01000000 9; Convert 1/4 into binary and display the finite fraction
+question_8bit_no45.bmp 8b 00100000 9; Convert 1/8 into binary and display the finite fraction
+question_8bit_no46.bmp 8b 11110111 9; Convert 0xF7 into binary
+question_8bit_no47.bmp 8b 00010010 9; Convert 0x12 into binary
+question_8bit_no48.bmp 8b 10101001 9; Convert 0xA9 into binary
+question_8bit_no49.bmp 8b 00011100 9; Convert 0x1C into binary
+question_8bit_no50.bmp 8b 10101001 9; Display the 1s complement binary of decimal 86
+

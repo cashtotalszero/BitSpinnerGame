@@ -1,0 +1,66 @@
+question_4bit_no1.bmp 4 0001 1; What is 1 in binary?
+question_4bit_no2.bmp 4 0010 1; What is 2 in binary?
+question_4bit_no3.bmp 4 0100 1; What is 4 in binary?
+question_4bit_no4.bmp 4 1000 1; What is 8 in binary?
+question_4bit_no13.bmp 4 0011 1; What is 3 in binary?
+question_4bit_no14.bmp 4 0101 1; What is 5 in binary?
+question_4bit_no15.bmp 4 0110 1; What is 6 in binary?
+question_4bit_no16.bmp 4 0111 1; Convert the decimal number 7 into binary
+question_4bit_no17.bmp 4 1001 1; Convert the decimal number 9 into binary
+question_4bit_no18.bmp 4 1010 1; What is 10 in binary?
+question_4bit_no19.bmp 4 1011 1; Convert the decimal number 11 into binary
+question_4bit_no20.bmp 4 1101 1; Convert the decimal number 13 into binary
+question_4bit_no21.bmp 4 1110 1; Convert the decimal number 14 into binary
+question_4bit_no22.bmp 4 1111 1; Convert the decimal number 15 into binary
+question_4bit_no5.bmp 4 1111 2; What is 0111 + 8 in binary?
+question_4bit_no6.bmp 4 0111 2; What is 1111 - 8 in binary?
+question_4bit_no7.bmp 4 1110 2; What is 1010 + 4 in binary?
+question_4bit_no8.bmp 4 1001 2; What is 1101 - 4 in binary?
+question_4bit_no9.bmp 4 1011 2; What is 1001 + 2 in binary?
+question_4bit_no10.bmp 4 0101 2; What is 0111 - 2 in binary?
+question_4bit_no11.bmp 4 1111 2; What is 1110 + 1 in binary?
+question_4bit_no12.bmp 4 1001 2; What is 1010 - 1 in binary?
+question_4bit_no29.bmp 4 1101 2; What is 1011 + 2 in binary?
+question_4bit_no24.bmp 4 1000 2; Make all bits 0 except the most significant bit
+question_4bit_no33.bmp 4 0100 2; Invert all bits in the binary string 1011
+question_4bit_no34.bmp 4 0011 2; Change the least significant bit in the string 0010
+question_4bit_no23.bmp 4 1000 3; Add 3 to the binary number 0101
+question_4bit_no25.bmp 4 1001 3; What is 0100 + 5 in binary?
+question_4bit_no26.bmp 4 0000 3; What is 0011 - 3 in binary?
+question_4bit_no27.bmp 4 1101 3; What is 0110 + 7 in binary?
+question_4bit_no28.bmp 4 0101 3; What is 1110 - 9 in binary?
+question_4bit_no30.bmp 4 0000 3; What is 1101 - 13 in binary?
+question_4bit_no31.bmp 4 0001 3; What is 1111 - 14 in binary?
+question_4bit_no32.bmp 4 1111 3; What is 1000 + 7 in binary?
+question_4bit_no35.bmp 4 1110 3; Bit shift 1111 left by one place
+question_4bit_no36.bmp 4 0100 3; Bit shift 1001 right by one place
+question_4bit_no37.bmp 4 0000 3; Bit shift 0011 right by two places
+question_4bit_no38.bmp 4 1100 3; Bit shift 1011 left by two places
+question_4bit_no39.bmp 4 1100 3; What is 2 to the power of 3 + 2 to the power of 2?
+question_4bit_no40.bmp 4 0110 3; What is 2 to the power of 1 + 2 to the power of 2?
+question_4bit_no41.bmp 4 1000 3; What is 2 to the power of 3 - 2 to the power of 0?
+question_4bit_no42.bmp 4 0010 3; What is 2 to the power of 2 - 2 to the power of 1?
+question_4bit_no43.bmp 4 1101 3; What is 1000 + 0101 in binary?
+question_4bit_no44.bmp 4 1111 3; What is 0010 + 1101 in binary?
+question_4bit_no45.bmp 4 1101 3; What is 1010 + 0011 in binary?
+question_4bit_no46.bmp 4 0101 3; What is 1110 - 1001 in binary?
+question_4bit_no47.bmp 4 0010 3; What is 0111 - 0101 in binary?
+question_4bit_no48.bmp 4 0111 3; What is 1011 - 0100 in binary?
+question_4bit_no49.bmp 4 1111 4; What is -1 in 2s complement binary?
+question_4bit_no50.bmp 4 1110 4; What is -2 in 2s complement binary?
+question_4bit_no51.bmp 4 1101 4; What is -3 in 2s complement binary?
+question_4bit_no52.bmp 4 1100 4; What is -4 in 2s complement binary?
+question_4bit_no53.bmp 4 1011 4; What is -5 in 2s complement binary?
+question_4bit_no54.bmp 4 1011 4; Find the 2s complement of 0101
+question_4bit_no55.bmp 4 1010 4; Find the 2s complement of 0110
+question_4bit_no56.bmp 4 1001 4; Find the 2s complement of 0111
+question_4bit_no57.bmp 4 0100 4; Change the signed bit in the 2s complement string 1100
+question_4bit_no58.bmp 4 1010 4; If 1001&1111=1001, 1010&1110=?
+question_4bit_no59.bmp 4 1000 4; If 0100&0110=0100, 1110&1000=?
+question_4bit_no60.bmp 4 0000 4; If 1110&1011=1010, 1010&0101=?
+question_4bit_no61.bmp 4 1111 4; If 1111&1011=1011, 1111&1111=?
+question_4bit_no62.bmp 4 1111 4; If 1101|1011=1111, 1100|0011=?
+question_4bit_no63.bmp 4 1011 4; If 1001|0011=1011, 0001|1011=?
+question_4bit_no64.bmp 4 0011 4; If 1101|0111=1111, 0001|0010=?
+
+
